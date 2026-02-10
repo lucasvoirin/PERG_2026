@@ -1,0 +1,16 @@
+/*-- scss:defaults --*/
+
+
+$presentation-h1-font-size: 1.5em;
+$presentation-h2-font-size: 1.2em;
+$presentation-title-slide-text-align: left;
+/*-- scss:rules --*/
+
+.reveal sup {
+  vertical-align: super;
+  font-size: 0.5em;
+}
+
+.reveal .quarto-title-author-name {
+  font-size: 0.8em;
+}

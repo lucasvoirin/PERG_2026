@@ -1,0 +1,159 @@
+---
+title: "Developing acoustic localization for wildlife in environmental impact assessment"
+author: "**Lucas Voirin**, André Desrochers, Marc J. Mazerolle"
+bibliography: references.bib
+format:
+  revealjs:
+    theme: theme.scss
+    css: custom.css
+    #footer: "[lucasvoirin.github.io](https://lucasvoirin.github.io)"
+    logo: favicon-32x32.png
+    pdf-separate-fragments: true
+---
+
+# Assessing impacts
+
+## Challenges in sight
+
+::: r-stack
+![](slides/eie_01.png){.fragment .fade-in-then-out fig-align="center"}
+
+![](slides/eie_02.png){.fragment .fade-in-then-out fig-align="center"}
+
+![](slides/eie_03.png){.fragment .fade-in-then-out fig-align="center"}
+
+![](slides/eie_04.png){.fragment .fade-in-then-out fig-align="center"}
+
+:::
+
+## Behavioral insights
+
+
+::: r-stack
+![](slides/behav_01.png){.fragment .fade-in-then-out fig-align="center"}
+
+![](slides/behav_02.png){.fragment .fade-in-then-out fig-align="center"}
+
+![](slides/behav_03.png){.fragment .fade-in-then-out fig-align="center"}
+
+![](slides/behav_04.png){.fragment .fade-in-then-out fig-align="center"}
+
+:::
+
+::: aside
+@Mennill_et_al_2006, @Dutilleux_et_al_2023, @Teixeira_et_al_2019
+:::
+
+
+## From sight to sound
+
+
+::: r-stack
+![](slides/pam_01.png){.fragment .fade-in-then-out fig-align="center"}
+
+![](slides/pam_02.png){.fragment .fade-in-then-out fig-align="center"}
+
+![](slides/pam_03.png){.fragment .fade-in-then-out fig-align="center"}
+
+![](slides/pam_04.png){.fragment .fade-in-then-out fig-align="center"}
+
+![](slides/pam_05.png){.fragment .fade-in-then-out fig-align="center"}
+
+:::
+
+
+::: aside
+ @Gibb_et_al_2019, @Sugai_et_al_2019
+:::
+
+
+# Localizing sounds
+
+## On the field
+
+::: r-stack
+![](slides/field_01.png){.fragment .fade-in-then-out fig-align="center"}
+
+![](slides/field_02.png){.fragment .fade-in-then-out fig-align="center"}
+
+![](slides/field_03.png){.fragment .fade-in-then-out fig-align="center"}
+
+:::
+
+::: aside
+@Rhinehart_et_al_2020
+:::
+
+## At the lab
+
+::: r-stack
+![](slides/lab_01.png){.fragment .fade-in-then-out fig-align="center"}
+
+![](slides/lab_02.png){.fragment .fade-in-then-out fig-align="center"}
+
+![](slides/lab_03.png){.fragment .fade-in-then-out fig-align="center"}
+
+![](slides/lab_04.png){.fragment .fade-in-then-out fig-align="center"}
+
+![](slides/lab_05.png){.fragment .fade-in-then-out fig-align="center"}
+
+![](slides/lab_06.png){.fragment .fade-in-then-out fig-align="center"}
+
+![](slides/lab_07.png){.fragment .fade-in-then-out fig-align="center"}
+
+![](slides/lab_08.png){.fragment .fade-in-then-out fig-align="center"}
+
+![](slides/lab_09.png){.fragment .fade-in-then-out fig-align="center"}
+
+![](slides/lab_10.png){.fragment .fade-in-then-out fig-align="center"}
+
+![](slides/lab_11.png){.fragment .fade-in-then-out fig-align="center"}
+
+![](slides/lab_12.png){.fragment .fade-in-then-out fig-align="center"}
+
+![](slides/lab_13.png){.fragment .fade-in-then-out fig-align="center"}
+
+:::
+
+## Sound source localization
+
+
+::: r-stack
+![](figures/localization_411.png){.fragment fig-align="center" width=60%}
+
+![](figures/localization_732.png){.fragment fig-align="center" width=60%}
+
+:::
+
+
+
+# Localizing recorders
+
+## What we already know
+
+::: r-stack
+![](slides/array_1.png){.fragment .fade-in-then-out fig-align="center"}
+
+![](slides/array_2.png){.fragment .fade-in-then-out fig-align="center"}
+
+:::
+
+## How we combine informations
+
+::: r-stack
+
+![](figures/fieldTest_array_1.png){.fragment fig-align="center" width=50%}
+
+![](figures/fieldTest_array_2.png){.fragment fig-align="center" width=50%}
+:::
+
+
+# Mapping behaviors
+
+## Linking sounds to landscape
+
+![](figures/drone.jpeg){fig-align="center" width=30%}
+
+
+# References
+
