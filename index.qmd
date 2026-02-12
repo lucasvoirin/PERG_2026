@@ -9,6 +9,7 @@ format:
     #footer: "[lucasvoirin.github.io](https://lucasvoirin.github.io)"
     logo: favicon-32x32.png
     pdf-separate-fragments: true
+output-dir: "./docs"
 ---
 
 # Assessing impacts

@@ -24,8 +24,6 @@ Ajouter l'oiseau
 Important : une diapo objectifs et une diapo take home
 remerciements (crsng, premier tech)
 
-# TODO
-
 
 Faire une animation avec le X placé puis le nuage de points
 
@@ -35,6 +33,10 @@ Expliquer l'approche, ce qu'il y a sous le capot
 Présenter l'erreur
 
 Pour placer les enregistreurs, présenter le défi
+
+# TODO
+
+
 
 
 

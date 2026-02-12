@@ -1,2 +1,3 @@
 project:
   title: "default"
+  output-dir: "./docs"
