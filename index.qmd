@@ -13,7 +13,7 @@ format:
 
 # Assessing impacts
 
-## Challenges in sight
+## Challenges
 
 ::: r-stack
 ![](slides/eie_01.png){.fragment .fade-in-then-out fig-align="center"}
@@ -26,7 +26,7 @@ format:
 
 :::
 
-## Behavioral insights
+## Behavior
 
 
 ::: r-stack
@@ -44,9 +44,7 @@ format:
 @Mennill_et_al_2006, @Dutilleux_et_al_2023, @Teixeira_et_al_2019
 :::
 
-
-## From sight to sound
-
+## Passive acoustic monitoring
 
 ::: r-stack
 ![](slides/pam_01.png){.fragment .fade-in-then-out fig-align="center"}
@@ -56,8 +54,6 @@ format:
 ![](slides/pam_03.png){.fragment .fade-in-then-out fig-align="center"}
 
 ![](slides/pam_04.png){.fragment .fade-in-then-out fig-align="center"}
-
-![](slides/pam_05.png){.fragment .fade-in-then-out fig-align="center"}
 
 :::
 
@@ -83,6 +79,25 @@ format:
 ::: aside
 @Rhinehart_et_al_2020
 :::
+
+## Objectives
+
+<br>
+
+::: {.fragment}
+Localize with precision animal sounds
+:::
+
+<br>
+
+::: {.fragment}
+Account for uncertainties in:
+
+- Recorders positions
+- Time delay estimations 
+:::
+
+
 
 ## At the lab
 
@@ -113,46 +128,129 @@ format:
 
 ![](slides/lab_13.png){.fragment .fade-in-then-out fig-align="center"}
 
+![](slides/lab_14.png){.fragment .fade-in-then-out fig-align="center"}
 :::
 
 ## Sound source localization
 
 
 ::: r-stack
-![](figures/localization_411.png){.fragment fig-align="center" width=60%}
+![](figures/loc_01.png){.fragment fig-align="center" width=80%}
 
-![](figures/localization_732.png){.fragment fig-align="center" width=60%}
+![](figures/loc_02.png){.fragment fig-align="center" width=80%}
+
+![](figures/loc_03.png){.fragment fig-align="center" width=80%}
+
+![](figures/loc_21.png){.fragment fig-align="center" width=80%}
+
+![](figures/loc_22.png){.fragment fig-align="center" width=80%}
+:::
+
+## Assessing precision
+
+::: r-stack
+
+![](figures/err_01.png){.fragment fig-align="center" width=80%}
+
+![](figures/err_02.png){.fragment fig-align="center" width=80%}
 
 :::
 
-
-
-# Localizing recorders
-
-## What we already know
+## Localizing recorders
 
 ::: r-stack
-![](slides/array_1.png){.fragment .fade-in-then-out fig-align="center"}
+
+![](figures/loc_03.png){.fragment .fade-in-then-out fig-align="center" width=80%}
 
 ![](slides/array_2.png){.fragment .fade-in-then-out fig-align="center"}
 
-:::
+![](figures/loc_03.png){.fragment .fade-in-then-out fig-align="center" width=80%}
 
-## How we combine informations
+![](figures/loc_11.png){.fragment .fade-in-then-out fig-align="center" width=80%}
 
-::: r-stack
+![](figures/loc_12.png){.fragment .fade-in-then-out fig-align="center" width=80%}
 
-![](figures/fieldTest_array_1.png){.fragment fig-align="center" width=50%}
-
-![](figures/fieldTest_array_2.png){.fragment fig-align="center" width=50%}
 :::
 
 
 # Mapping behaviors
 
+
+## Objectives {.smaller}
+
+
+::: columns
+
+::: column
+
+<br>
+
+
+<span style="color:green;">{{<fa check size=2x >}}</span>
+ Localize with precision animal sounds
+
+<br>
+
+Account for uncertainties in:
+
+- <span style="color:green;">{{<fa check size=2x >}}</span> Recorders positions
+- <span style="color:green;">{{<fa check size=2x >}}</span> Time delay estimations 
+
+:::
+
+::: column
+
+![](figures/loc_04.png){.fragment .fade-in-then-out fig-align="center" width=80%}
+
+:::
+
+:::
+
 ## Linking sounds to landscape
 
 ![](figures/drone.jpeg){fig-align="center" width=30%}
+
+
+
+
+# Thank you!{.smaller}
+
+::: columns
+
+::: column
+
+<br>
+<br>
+<br>
+
+This work has been funded by
+<br>
+<br>
+<br>
+<br>
+<br>
+
+:::
+
+::: {.column}
+
+![](CRSNG_RGB.png){width=6cm fig-align="center"}
+<br>
+![](5brand-logo-premier-tech.jpg){width=6cm}
+
+<br>
+
+:::
+
+:::
+
+
+::: {.callout-note}
+## Contact
+ [{{<fa globe>}} lucasvoirin.github.io](https://lucasvoirin.github.io)
+
+ [{{<fa envelope>}} lucas.voirin.1@ulaval.ca](mailto:lucas.voirin.1@ulaval.ca)
+:::
 
 
 # References
