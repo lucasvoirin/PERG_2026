@@ -6,10 +6,9 @@ format:
   revealjs:
     theme: theme.scss
     css: custom.css
-    #footer: "[lucasvoirin.github.io](https://lucasvoirin.github.io)"
+    footer: "[lucasvoirin.github.io/PERG_2026](https://lucasvoirin.github.io/PERG_2026)"
     logo: favicon-32x32.png
     pdf-separate-fragments: true
-output-dir: "./docs"
 ---
 
 # Assessing impacts
